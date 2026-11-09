@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is a simulated Salesforce CRM implementation for Summit Solutions, a fictional company with 100 employees. The objective is to demonstrate the planning, coordination, and business analysis skills required to successfully manage an enterprise software implementation.
+This project is a simulated Salesforce CRM implementation for Apex Solutions, a fictional company with 100 employees. The objective is to demonstrate the planning, coordination, and business analysis skills required to successfully manage an enterprise software implementation.
 
 The project follows a structured 12-week implementation plan with a hypothetical budget of $75,000. It covers the major phases of the project management lifecycle, including initiation, planning, execution, monitoring, and closure.
 
@@ -14,7 +14,7 @@ Through this simulation, I will develop project management documentation, analyz
 
 | Category | Description |
 |---|---|
-| Organization | Summit Solutions (Fictional) |
+| Organization | Apex Solutions (Fictional) |
 | Project Type | Salesforce CRM Implementation |
 | Project Duration | 12 Weeks (Simulated) |
 | Project Budget | $75,000 (Hypothetical) |
@@ -25,7 +25,7 @@ Through this simulation, I will develop project management documentation, analyz
 
 ## Business Problem
 
-Summit Solutions currently relies on spreadsheets, email communication, and disconnected systems to manage customer information and sales activities.
+Apex Solutions currently relies on spreadsheets, email communication, and disconnected systems to manage customer information and sales activities.
 
 This creates several operational challenges:
 
@@ -134,6 +134,6 @@ Project deliverables will be uploaded as they are completed. This README will be
 
 ## Disclaimer
 
-This project is an independent educational simulation created for portfolio and professional development purposes. Summit Solutions is a fictional organization, and all budgets, schedules, stakeholders, and project outcomes are hypothetical.
+This project is an independent educational simulation created for portfolio and professional development purposes. Apex Solutions is a fictional organization, and all budgets, schedules, stakeholders, and project outcomes are hypothetical.
 
 This project is not affiliated with or endorsed by Salesforce. No actual Salesforce production implementation or real customer data migration is being performed.
