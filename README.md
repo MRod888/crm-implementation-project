@@ -14,10 +14,10 @@ Through this simulation, I will develop project management documentation, analyz
 
 | Category | Description |
 |---|---|
-| Organization | Apex Solutions (Fictional) |
+| Organization | Apex Solutions |
 | Project Type | Salesforce CRM Implementation |
 | Project Duration | 12 Weeks (Simulated) |
-| Project Budget | $75,000 (Hypothetical) |
+| Project Budget | $75,000 |
 | Company Size | 100 Employees |
 | Target Users | 30 Sales and Customer Service Employees |
 | Role | Simulated IT Project Coordinator |
